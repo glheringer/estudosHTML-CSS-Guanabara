@@ -8,6 +8,19 @@
 </head>
 <body>
     <h1>Usando links externos</h1>
-    <p></p>
+    <p>Você pode acessar o meu <a href="https://github.com/glheringer" target="_blank" rel="external">repositório público</a> no gitHub</p>  <!--targert = _blank e rel= "external" para a abrir o link em outra guia e não sobrepor seu site-->
+    <p>Outro <a href="https://www.sabornamesa.com.br/media/k2/items/cache/c501a702ef05e90d163a1eeeb1633357_XL.jpg">link qualquer </a>mas que sobrepõe o site </p>
+    <h1>Usando Links internos</h1>
+    <p>Esta é a primeira página do meu site, se quiser, você pode acessar também a minha <a href="page02.html" rel="next">segunda página</a>.</p> <!-- atributo rel para dizer qual é a proxima pagina, nao deixar o mecanismo de busca fazer issso automaticamente-->
+    <p>Você também pode acessar a nossa <a href="noticias/page03.html" rel="next" target="_self">página de notícias</a></p>
+    <!--"_self" quando se quer abrir um link para a própria página -->
+
+    <h1>Links para download</h1>
+    <ul>
+        <li><a href="livro/meulivro.pdf" download="meulivro.pdf" type="application/pdf">Baixar o livro em PDF</a></li>
+        <!--atributo download para o site realmente baixar o anexo, e não apenas abrir para visualização. type ="application/pdf também é necessãrio para especificar" -->
+        <li><a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Livro compactado em ZIP</a></li>
+        <!-- type ="application/zip também é necessãrio para especificar. Verificar lista de media types (iana.org)" -->
+    </ul>
 </body>
 </html>
