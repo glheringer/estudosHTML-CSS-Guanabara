@@ -1,9 +1,16 @@
 # Estudos sobre HTML 5 e CSS 3 pela plataforma Curso em vídeo. Exercícios realizados durante o curso.
+## Módulo 1
+### Ferramentas e Apps
+ - Gimp (substituto gratuito do photoshop, redimensionar imagens)
+ - HandBrake (conversão de vídeos entre formatos M4V,mp4,webm
 ## Módulo 2 
 ### Ferramentas 
  - Adobe Colors
  - Paletton
  - Coolors
+### Extensões
+ - ColorZilla (para caputurar cor de websites) - Chrome web store
+ - FontsNInja (para capturar fontes de websites) - Chrome web store
 ### Círculo Cromático
 ![Captura de Tela 2021-11-18 às 18 22 24](https://user-images.githubusercontent.com/91977484/142498779-57e8ba94-7561-4624-9f80-e0b821a1b54c.png)
 ![Captura de Tela 2021-11-18 às 18 24 00](https://user-images.githubusercontent.com/91977484/142498980-8e31b070-f3a5-42b2-b031-ae889fbc0244.png)
