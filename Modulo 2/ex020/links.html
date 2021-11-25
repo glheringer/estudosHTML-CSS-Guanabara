@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        a{
+            color: rgb(248, 248, 11);
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited{
+            color: darkkhaki;
+        }
+        a:hover{
+            text-decoration: underline;
+            color: black;
+        }
+        a:active{
+            color: wheat;
+        }
+        /* Pseudos classes = um ponto ( : )
+        Pseudos elementos = dois pontos ( :: )
+         */
+
+        a::after{
+            content: '[link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgray;
+        }
+        a::before{
+            content: '[teste]';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <li><a target="__blank" rel="external" href="https://github.com/glheringer">Repositorio GitHub</a></li>
+    <li><a target="__blank" rel="external" href="https://www.linkedin.com/in/guilherme-heringer-a9118a16a">Linkedin</a></li>
+    <li><a target="__blank" rel="external" href="https://www.instagram.com/glheringer/">Instagram</a></li>
+</body>
+</html>
