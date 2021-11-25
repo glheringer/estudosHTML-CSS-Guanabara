@@ -23,6 +23,7 @@
 
 ### Box Model
 Modelo em que as tags do HTML funcionam e são dispostas.
+---------------------
 ![boxmodel](https://user-images.githubusercontent.com/91977484/143457937-bb4cc8fe-7769-4e8d-a69b-28b34ef0140c.png)
 ![Captura de Tela 2021-11-25 às 11 15 47](https://user-images.githubusercontent.com/91977484/143457837-9d471292-ebc9-49f7-9d72-9d229b9209d2.png)
 ![Captura de Tela 2021-11-25 às 11 14 16](https://user-images.githubusercontent.com/91977484/143457840-5c9c4163-cb5f-4f1f-8c45-a50bbafc7ba9.png)
