@@ -22,7 +22,8 @@
 ![Captura de Tela 2021-11-18 às 18 27 31](https://user-images.githubusercontent.com/91977484/142499467-9a9856e3-6a66-47ae-99c2-016ab52b74db.png)
 
 ### Box Model
-Modelo em que as tags do HTML funcionam e são dispostas.
+ Modelo em que as tags do HTML funcionam e são dispostas.
+    
 ---------------------
 ![boxmodel](https://user-images.githubusercontent.com/91977484/143457937-bb4cc8fe-7769-4e8d-a69b-28b34ef0140c.png)
 ![Captura de Tela 2021-11-25 às 11 15 47](https://user-images.githubusercontent.com/91977484/143457837-9d471292-ebc9-49f7-9d72-9d229b9209d2.png)
